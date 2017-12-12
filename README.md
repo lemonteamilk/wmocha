@@ -1,14 +1,23 @@
-# whitemocha
-Memopad of a programming starter.
+# WhiteMocha @milkylemontea 
 
-Tools
+**MEMO**
 
-Atom: 
 
-Text Editor
-https://atom.io/
 
-Typora:
+**工具**
 
-MD file editor
-https://typora.io/
+Typora:                                                                                                                                                                                <https://typora.io/>
+方便的编写Markdown格式的工具
+
+可以用来做笔记记录数学式子
+
+在网页上正确显示需要Mathjax
+
+Atom:
+
+<https://atom.io>
+
+功能强大的文本编辑器（
+
+可以连接Github账户
+
