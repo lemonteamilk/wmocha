@@ -3,7 +3,7 @@ Memopad of a programming starter.
 
 Tools
 
-Atom:
+Atom: 
 
 Text Editor
 https://atom.io/
