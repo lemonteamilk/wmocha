@@ -1,5 +1,5 @@
 #dot product
-vector a and b
+vector a and b\n
 a.b= |a|.|b| cos\theta
 #vector product
 a x b = |a| . |b| sin\theta n^
