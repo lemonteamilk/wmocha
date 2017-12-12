@@ -1,7 +1,10 @@
 # whitemocha
 Memopad of a programming starter.
 
-`Tools`
-Atom
+Tools
+
+Atom:
 https://atom.io/
-Typora
+
+Typora:
+https://typora.io/
