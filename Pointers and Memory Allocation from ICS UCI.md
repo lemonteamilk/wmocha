@@ -1,4 +1,4 @@
-#Pointers and Memory Allocation 
+# Pointers and Memory Allocation 
 
 [Original article link](https://www.ics.uci.edu/~dan/class/165/notes/memory.html)
 
@@ -56,7 +56,8 @@ You should give, as a parameter, to free exactly the pointer given to you by `ma
 
 Thus there should be exactly as many calls to free as to `malloc`, and they should involve exactly the same blocks of memory.
 
-#Multi-dimensional arrays
+# Multi-dimensional arrays
+
 C uses two implementations of arrays, depending on the declaration. They are the same for one dimension, but different for more dimensions.
 
 For example, if an array is declared as
