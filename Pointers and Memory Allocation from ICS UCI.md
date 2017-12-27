@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Pointers and Memory Allocation
 =======
-# Pointers and Memory Allocation 
+# Pointers and Memory Allocation
 >>>>>>> e0d4ff6a8f21b1705dc7c9249cc8ea4527cefa0f
 
 [Original article link](https://www.ics.uci.edu/~dan/class/165/notes/memory.html)
@@ -65,6 +65,7 @@ Thus there should be exactly as many calls to free as to `malloc`, and they shou
 =======
 
 >>>>>>> e0d4ff6a8f21b1705dc7c9249cc8ea4527cefa0f
+
 C uses two implementations of arrays, depending on the declaration. They are the same for one dimension, but different for more dimensions.
 
 For example, if an array is declared as
@@ -187,3 +188,4 @@ Thus there should be a perfect one-to-one correspondence between calls to `mallo
 
 
 *Last modified: Mar 25, 2016*
+*Clipped by milkylemontea: Dec 27, 2017*
